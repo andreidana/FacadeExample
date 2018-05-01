@@ -19,5 +19,5 @@ Use the Facade pattern when
 **Related Patterns**
 
 - [Abstract Factory](https://github.com/andreidana/AbstractFactoryExample)
-- Mediator
+- [Mediator](https://github.com/andreidana/MediatorPattern)
 - [Singleton](https://github.com/andreidana/SingletonExample) (Facade objects are often singletons)
